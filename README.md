@@ -1,6 +1,10 @@
 hex2dfcolors
 ============
 
+> **DISCLAIMER:** The tool is currently untested, so use with caution and, 
+> in case of bugs or unexpected program behaviour, please use the 
+> [Issues](https://github.com/cafuneandchill/hex2dfcolors/issues) tab on GitHub.
+
 A Python 3 tool for converting color list files
 to Dwarf Fortress `colors.txt` color scheme files.
 
